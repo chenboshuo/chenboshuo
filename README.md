@@ -46,7 +46,7 @@ Bash        28 mins             █░░░░░░░░░░░░░░░
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/chenboshuo)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-02569B?style=flat&logo=leetCode)](https://github.com/chenboshuo)
 [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/jupyter_notebook.png" alt="jupyter notebook logo" width="30">](https://jupyter.org/)
-[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="24">](https://code.visualstudio.com/)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 
 #### Learning
 
@@ -62,7 +62,11 @@ Bash        28 mins             █░░░░░░░░░░░░░░░
 <a href="mailto:chenboshuo2000@gmail.com">
   <img align="left" alt="chenboshuo's gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+<br>
 
+### ✨Visitors
+
+[![ViewCount](https://views.whatilearened.today/views/github/chenboshuo/ismlhbb.svg?cache=remove)](#)
 
 
 <!-- [![Go](https://img.shields.io/badge/-Go-black?style=flat&logo=go)](https://github.com/chenboshuo)
