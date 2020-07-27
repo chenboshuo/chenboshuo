@@ -17,10 +17,10 @@ or
 ### 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Other          13 hrs 9 mins   █████████████░░░░░░░░░░░░   54.14 % 
-Python         5 hrs 45 mins   ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
-TeX            4 hrs 24 mins   ████░░░░░░░░░░░░░░░░░░░░░   18.15 % 
-Markdown       32 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+Other          13 hrs 9 mins   █████████████░░░░░░░░░░░░   54.14 %
+Python         5 hrs 45 mins   ██████░░░░░░░░░░░░░░░░░░░   23.65 %
+TeX            4 hrs 24 mins   ████░░░░░░░░░░░░░░░░░░░░░   18.15 %
+Markdown       32 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
 OpenEdge ABL   21 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
 ```
 <!--END_SECTION:waka-->
@@ -30,7 +30,14 @@ OpenEdge ABL   21 mins         ░░░░░░░░░░░░░░░░�
 
 [![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white)](https://github.com/chenboshuo)
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)](https://github.com/chenboshuo)
+<img height=30px src="https://isocpp.org/assets/images/cpp_logo.png">
+<img height=50px src="https://img.icons8.com/bubbles/2x/console.png">
+<img height=50px src="https://img.icons8.com/ios-filled/2x/sql.png"> 
 
+
+<a href="https://github.com/chenboshuo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenboshuo" />
+</a>
 
 
 
