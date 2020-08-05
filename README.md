@@ -19,10 +19,10 @@ or
 ```text
 Week: 28 July, 2020 - 04 August, 2020
 
-TeX            10 hrs 23 mins  ███████████░░░░░░░░░░░░░░   43.87 % 
-Other          9 hrs 27 mins   ██████████░░░░░░░░░░░░░░░   39.93 % 
-Python         2 hrs 49 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-OpenEdge ABL   23 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+TeX            10 hrs 23 mins  ███████████░░░░░░░░░░░░░░   43.87 %
+Other          9 hrs 27 mins   ██████████░░░░░░░░░░░░░░░   39.93 %
+Python         2 hrs 49 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.92 %
+OpenEdge ABL   23 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
 JSON           17 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
 ```
 <!--END_SECTION:waka-->
@@ -34,7 +34,7 @@ JSON           17 mins         ░░░░░░░░░░░░░░░░�
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)](https://github.com/chenboshuo)
 <img height=30px src="https://isocpp.org/assets/images/cpp_logo.png">
 <img height=50px src="https://img.icons8.com/bubbles/2x/console.png">
-<img height=50px src="https://img.icons8.com/ios-filled/2x/sql.png"> 
+<img height=50px src="https://img.icons8.com/ios-filled/2x/sql.png">
 
 
 <a href="https://github.com/chenboshuo">
@@ -56,6 +56,7 @@ JSON           17 mins         ░░░░░░░░░░░░░░░░�
 [![LeetCode](https://img.shields.io/badge/-LeetCode-02569B?style=flat&logo=leetCode)](https://github.com/chenboshuo)
 [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/jupyter_notebook.png" alt="jupyter notebook logo" width="30">](https://jupyter.org/)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
+<img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/jetbrains_pycharm.svg" alt="pycharm" style="vertical-align:top; margin:4px">
 
 #### Learning
 
