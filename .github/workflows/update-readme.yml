@@ -15,4 +15,4 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
-          COMMIT_MESSAGE: ':chart_with_upwards_trend: Updated the weekly work time'
+          COMMIT_MESSAGE: ':chart_with_upwards_trend: Updated the Graph with new Metrics'
