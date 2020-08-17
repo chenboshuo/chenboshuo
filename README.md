@@ -59,6 +59,7 @@ Markdown   1 hr 13 mins    █░░░░░░░░░░░░░░░░�
 <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/jetbrains_pycharm.svg" alt="pycharm" style="vertical-align:top; margin:4px">
 
 <img align="left" alt="bash" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png" />
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
 <br>
 
 #### Learning
