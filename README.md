@@ -19,10 +19,10 @@ or
 ```text
 Week: 09 August, 2020 - 16 August, 2020
 
-TeX        6 hrs 33 mins   ██████░░░░░░░░░░░░░░░░░░░   25.24 % 
-Python     2 hrs 24 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
-C++        1 hr 44 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
-C          1 hr 36 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+TeX        6 hrs 33 mins   ██████░░░░░░░░░░░░░░░░░░░   25.24 %
+Python     2 hrs 24 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 %
+C++        1 hr 44 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
+C          1 hr 36 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   06.17 %
 Markdown   1 hr 13 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
 ```
 <!--END_SECTION:waka-->
@@ -57,6 +57,9 @@ Markdown   1 hr 13 mins    █░░░░░░░░░░░░░░░░�
 [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/jupyter_notebook.png" alt="jupyter notebook logo" width="30">](https://jupyter.org/)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/jetbrains_pycharm.svg" alt="pycharm" style="vertical-align:top; margin:4px">
+
+<img align="left" alt="bash" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png" />
+<br>
 
 #### Learning
 
