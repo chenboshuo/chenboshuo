@@ -76,6 +76,10 @@ Markdown   1 hr 13 mins    █░░░░░░░░░░░░░░░░�
 <a href="mailto:chenboshuo2000@gmail.com">
   <img align="left" alt="chenboshuo's gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+<a href="https://codeforces.com/profile/chenboshuo">
+  <img align="left" alt="Codeforces Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/codeforces.svg" />
+</a>
+
 <br>
 
 ### ✨Visitors
