@@ -38,7 +38,7 @@ Markdown   1 hr 13 mins    █░░░░░░░░░░░░░░░░�
 
 
 <a href="https://github.com/chenboshuo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenboshuo" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenboshuo&layout=compact">
 </a>
 
 
