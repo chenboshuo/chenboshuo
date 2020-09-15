@@ -19,10 +19,10 @@ or
 ```text
 Week: 07 September, 2020 - 14 September, 2020
 
-Python   14 hrs 52 mins  ████████░░░░░░░░░░░░░░░░░   32.23 % 
-TeX      10 hrs 2 mins   █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
-BibTeX   51 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
-Java     31 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+Python   14 hrs 52 mins  ████████░░░░░░░░░░░░░░░░░   32.23 %
+TeX      10 hrs 2 mins   █████░░░░░░░░░░░░░░░░░░░░   21.76 %
+BibTeX   51 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+Java     31 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
 CSV      17 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 ```
 <!--END_SECTION:waka-->
@@ -45,7 +45,11 @@ CSV      17 mins         ░░░░░░░░░░░░░░░░░░�
 
 #### Learning
 
-[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white)](https://github.com/chenboshuo)
+[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white)](https://github.com/chenboshuo/learn_java)
+<a href="https://github.com/chenboshuo/learn_r">
+  <img align="left" alt="chenboshuo's Leetcode" width="22px" src="https://www.r-project.org/Rlogo.png" />
+</a>
+<br>
 
 ### Tools 🛠️
 
