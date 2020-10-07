@@ -38,6 +38,9 @@ C        56 mins         █░░░░░░░░░░░░░░░░░�
 <a href="https://github.com/chenboshuo/learn_c">
   <img height=20px alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white">
 </a>
+<a href="https://github.com/chenboshuo/learn_latex">
+  <img height=20px alt="sql" src="http://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=ffffff">
+</a>
 <a href="https://github.com/chenboshuo/bash_script">
   <img height=50px alt='bash' src="https://img.icons8.com/bubbles/2x/console.png">
 </a>
@@ -45,7 +48,9 @@ C        56 mins         █░░░░░░░░░░░░░░░░░�
   <img height=30px alt="sql" src="https://img.icons8.com/ios-filled/2x/sql.png">
 </a>
 
+
 <br>
+
 <a href="https://github.com/chenboshuo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenboshuo&layout=compact">
 </a>
