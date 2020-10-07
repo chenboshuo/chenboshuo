@@ -94,35 +94,15 @@ C        56 mins         █░░░░░░░░░░░░░░░░░�
 <a href="mailto:chenboshuo2000@gmail.com">
   <img align="left" alt="chenboshuo's gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a href="https://codeforces.com/profile/chenboshuo">
+<!-- <a href="https://codeforces.com/profile/chenboshuo">
   <img align="left" alt="Codeforces Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/codeforces.svg" />
-</a>
+</a> -->
+<!-- <a href="https://www.kaggle.com/chenboshuo">
+  <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
+</a> -->
 
 <br>
 
 ### ✨Visitors
 
 [![ViewCount](https://views.whatilearened.today/views/github/chenboshuo/ismlhbb.svg?cache=remove)](#)
-
-
-<!-- [![Go](https://img.shields.io/badge/-Go-black?style=flat&logo=go)](https://github.com/chenboshuo)
-
-[![SpringBoot](https://img.shields.io/badge/-Springboot-black?style=flat&logo=spring)](https://github.com/chenboshuo)
-[![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow)](https://github.com/chenboshuo)
-[![AzureDevops](https://img.shields.io/badge/-AzureDevops-0175C2?style=flat&logo=azureDevops)](https://github.com/chenboshuo)
-[![Travis](https://img.shields.io/badge/-Travis-red?style=flat&logo=travis)](https://github.com/chenboshuo)
-
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)](https://github.com/chenboshuo)
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://github.com/chenboshuo)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)](https://github.com/chenboshuo)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)](https://github.com/chenboshuo)
-[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)](https://github.com/chenboshuo)
-
-
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js)](https://github.com/chenboshuo)
-
-[![Redis](https://img.shields.io/badge/-Redis-black?style=flat&logo=redis)](https://github.com/chenboshuo)
-
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)](https://github.com/chenboshuo)
-
-[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab)](https://gitlab.com/hritik5102)  -->
