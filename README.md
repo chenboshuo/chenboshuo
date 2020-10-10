@@ -62,6 +62,8 @@ Java     1 hr 4 mins     █░░░░░░░░░░░░░░░░░�
 <a href="https://github.com/chenboshuo/learn_java">
   <img height=20px alt="java" src="https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white">
 </a>
+  <img height=20px alt="java" src="https://img.shields.io/badge/masm%20-%2300599C.svg?&style=for-the-badge">
+</a>
 <a href="https://github.com/chenboshuo/learn_r">
   <img alt="R" height=20px src="https://img.shields.io/badge/-R_language-gray?style=flat&logo=R" />  
 </a>
