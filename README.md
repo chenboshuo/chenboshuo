@@ -17,10 +17,10 @@ or
 ```text
 Week: 04 October, 2020 - 11 October, 2020
 
-TeX        3 hrs 57 mins   ██████░░░░░░░░░░░░░░░░░░░   26.22 % 
-C          1 hr 44 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
-Python     1 hr 15 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
-Markdown   39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+TeX        3 hrs 57 mins   ██████░░░░░░░░░░░░░░░░░░░   26.22 %
+C          1 hr 44 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.57 %
+Python     1 hr 15 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 %
+Markdown   39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
 Java       21 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
 ```
 <!--END_SECTION:waka-->
@@ -48,11 +48,15 @@ Java       21 mins         ░░░░░░░░░░░░░░░░░�
   <img height=30px alt="sql" src="https://img.icons8.com/ios-filled/2x/sql.png">
 </a>
 
+<a href="https://github.com/chenboshuo/learn_database">
+  <img height=30px alt="mat" src="https://github.com/github/explore/blob/master/topics/matlab/matlab.png?raw=true">
+</a>
+
 
 <br>
 
-<a href="https://github.com/chenboshuo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenboshuo&layout=compact">
+<a href="https://github.com/learn_matlab">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenboshuo&layout=compact"style="margin:5px">
 </a>
 
 
