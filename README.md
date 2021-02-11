@@ -15,7 +15,7 @@ or
 ### 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Week: 02 February, 2021 - 09 February, 2021
+Week: 03 February, 2021 - 10 February, 2021
 
 Python     22 hrs 31 mins  █████████████░░░░░░░░░░░░   51.68 % 
 TeX        17 hrs 39 mins  ██████████░░░░░░░░░░░░░░░   40.52 % 
