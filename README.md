@@ -15,7 +15,7 @@ or
 ### 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Week: 09 December, 2021 - 16 December, 2021
+Week: 10 December, 2021 - 17 December, 2021
 
 TeX        3 hrs 24 mins   ████████████▓░░░░░░░░░░░░   50.30 % 
 Markdown   1 hr 13 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.01 % 
