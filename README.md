@@ -10,6 +10,8 @@ or
 
 ![chenboshuo's github stats](https://github-readme-stats.vercel.app/api?username=chenboshuo&show_icons=true)
 
+In 2021, I made 260 contributions and modified 13,000 lines of code. Check out my GitHub Wrapped at githubtrends.io/wrapped/chenboshuo
+
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 ### 📊 **This week I spent my time on**
@@ -114,3 +116,5 @@ Python     19 mins         ███▒░░░░░░░░░░░░░�
 ### ✨Visitors
 
 [![ViewCount](https://views.whatilearened.today/views/github/chenboshuo/ismlhbb.svg?cache=remove)](#)
+
+
