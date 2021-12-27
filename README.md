@@ -17,9 +17,9 @@ In 2021, I made 260 contributions and modified 13,000 lines of code. Check out m
 ### 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Week: 18 December, 2021 - 25 December, 2021
+Week: 19 December, 2021 - 26 December, 2021
 
-Python     19 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.09 % 
+
 ```
 <!--END_SECTION:waka-->
 ### 🌐 Programming Languages
