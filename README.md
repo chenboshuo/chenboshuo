@@ -17,7 +17,7 @@ In 2021, I made 260 contributions and modified 13,000 lines of code. Check out m
 ### 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Week: 23 December, 2021 - 30 December, 2021
+Week: 24 December, 2021 - 31 December, 2021
 
 TeX            9 hrs 7 mins    █████████████████░░░░░░░░   67.96 % 
 BibTeX         52 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
