@@ -90,6 +90,7 @@ Other          3 hrs 59 mins   ███████▓░░░░░░░░�
 <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/jetbrains_pycharm.svg" alt="pycharm" style="vertical-align:top; margin:4px" height=20px>
 <img alt="bash" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png" />
 <img height="20" alt= "linux" src="https://img.shields.io/badge/-linux-lightgray?style=flat&logo=linux&logoColor=white">
+<img alt="Vim" src="https://img.shields.io/badge/-Vim-4fc08d?style=flat-square&logo=vim&logoColor=white" />
 <br>
 
 #### Learning
