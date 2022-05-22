@@ -18,10 +18,10 @@ In 2021, I made 260 contributions and modified 13,000 lines of code. Check out m
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 May 2022 - To: 20 May 2022
+From: 14 May 2022 - To: 21 May 2022
 
-TeX            11 hrs 45 mins  ████████████▒░░░░░░░░░░░░   48.72 %
-Other          9 hrs 35 mins   ██████████░░░░░░░░░░░░░░░   39.72 %
+TeX            10 hrs 33 mins  ███████████▒░░░░░░░░░░░░░   45.21 %
+Other          9 hrs 32 mins   ██████████▒░░░░░░░░░░░░░░   40.87 %
 ```
 
 <!--END_SECTION:waka-->
