@@ -18,14 +18,14 @@ In 2021, I made 260 contributions and modified 13,000 lines of code. Check out m
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 August 2022 - To: 05 September 2022
+From: 30 August 2022 - To: 06 September 2022
 
-Python             1 hr 37 mins    ████████▒░░░░░░░░░░░░░░░░   33.38 %
-sh                 1 hr 35 mins    ████████▒░░░░░░░░░░░░░░░░   32.70 %
-TeX                49 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.03 %
-reStructuredText   24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
-OpenEdge ABL       9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
-Makefile           6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+TeX                1 hr 50 mins    ███████▓░░░░░░░░░░░░░░░░░   31.10 %
+sh                 1 hr 42 mins    ███████▒░░░░░░░░░░░░░░░░░   28.76 %
+Python             1 hr 27 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.78 %
+BibTeX             12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
+OpenEdge ABL       11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
+Makefile           10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
 ```
 
 <!--END_SECTION:waka-->
