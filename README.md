@@ -18,14 +18,14 @@ In 2021, I made 260 contributions and modified 13,000 lines of code. Check out m
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 March 2023 - To: 15 March 2023
+From: 09 March 2023 - To: 16 March 2023
 
-TeX                3 hrs 58 mins   ████████████▒░░░░░░░░░░░░   49.75 %
-Python             1 hr 19 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.52 %
-sh                 1 hr 9 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.42 %
-C++                1 hr 6 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.87 %
-C                  15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
-Other              6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+TeX                3 hrs 49 mins   █████████████░░░░░░░░░░░░   52.52 %
+C++                1 hr 49 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.03 %
+sh                 47 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.85 %
+Python             44 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.06 %
+YAML               1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+JavaScript         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
