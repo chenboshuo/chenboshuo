@@ -28,6 +28,8 @@ PowerShell         2 hrs 18 mins   █▓░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chenboshuo&range=all_time&layout=compact)
 ### 🌐 Programming Languages
 
 ### Know/Using
