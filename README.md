@@ -18,13 +18,13 @@ In 2021, I made 260 contributions and modified 13,000 lines of code. Check out m
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 October 2024 - To: 13 October 2024
+From: 07 October 2024 - To: 14 October 2024
 
-C++          15 hrs 57 mins  █████████████▓░░░░░░░░░░░   54.32 %
-TeX          5 hrs 39 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.22 %
-Markdown     2 hrs 24 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 %
-sh           1 hr 45 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
-PowerShell   1 hr 24 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
+C++          14 hrs 14 mins  ████████████▓░░░░░░░░░░░░   50.70 %
+TeX          5 hrs 15 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.73 %
+sh           2 hrs 36 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.28 %
+Markdown     2 hrs 24 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 %
+PowerShell   1 hr 23 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
 ```
 
 <!--END_SECTION:waka-->
